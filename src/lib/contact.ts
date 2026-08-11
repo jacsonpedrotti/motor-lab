@@ -36,3 +36,9 @@ export const BUSINESS_HOURS = {
   weekdays: "Seg–Sex: 8h às 18h",
   saturday: "Sáb: 8h às 12h",
 } as const;
+
+export const DEVELOPER = {
+  name: "JacsonPedrotti",
+  whatsappNumber: "5548996832721",
+  whatsappUrl: "https://wa.me/5548996832721",
+} as const;
